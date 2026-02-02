@@ -2,8 +2,11 @@
 ## Project Overview
 Banking Risk Analysis is a comprehensive end-to-end data analytics project that focuses on understanding customer financial behavior and risk patterns using real-world banking data. The project combines Exploratory Data Analysis (EDA) in Python with interactive Power BI dashboards to deliver actionable business insights for the banking and finance domain.
 The primary objective of this project is to help banks:
+
 •	Identify high-risk customers
+
 •	Analyze income-based risk segmentation
+
 •	Understand how loans, deposits, savings, and demographics impact overall financial performance and risk exposure.
 
 ## 1️⃣ Home Dashboard (Executive View)

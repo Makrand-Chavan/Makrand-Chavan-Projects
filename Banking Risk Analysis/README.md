@@ -11,145 +11,45 @@ The primary objective of this project is to help banks:
 •	Understand how loans, deposits, savings, and demographics impact overall financial performance and risk exposure.
 
 ## 1️⃣ Home Dashboard (Executive View)
-Purpose: High-level overview for management.
+The Home Dashboard provides a high-level overview of the bank’s overall performance by displaying key financial KPIs such as total clients, total loans, total deposits, total fees, credit card amounts, and savings. 
 
-This page provides a summary of key banking KPIs:
-
-•	Total Clients
-
-•	Total Loan
-
-•	Total Deposit
-
-•	Total Fees
-
-•	Credit Card Amount
-
-•	Saving Account Amount
-
-It also includes:
-
-•	Year slicer (Joining Year)
-
-•	Gender filter
-
-•	Banking Relationship filter
-
-This page is designed for quick decision-making and executive reporting.
+It acts as the entry point for stakeholders, allowing them to quickly understand the current business status and use interactive filters like joining year, gender, and banking relationship to drill down into specific customer segments for faster decision-making.
 
 ## 2️⃣ Loan Analysis Dashboard
-Purpose: Analyze loan distribution and lending behavior.
+The Loan Analysis Dashboard focuses on understanding lending behavior and credit exposure across different customer groups. 
 
-Key insights include:
-
-•	Total Loan and Bank Loan amounts
-
-•	Business Lending and Credit Card values
-
-•	Loan distribution by:
-
-	Banking Relationship
-
-	Occupation
-
-	Nationality
-
-	Income Band
-
-This dashboard helps banks understand:
-
-•	Which customer segments take the highest loans
-
-•	Which occupations and nationalities carry higher credit exposure
-
-Useful for credit policy design and loan risk assessment.
+It analyzes how loans are distributed by income band, occupation, nationality, and banking relationship, helping the bank identify which segments are taking higher loans, which groups carry higher credit risk, and where potential default risk may exist.
 
 ## 3️⃣ Deposit Analysis Dashboard
 
-Purpose: Understand customer deposit behavior.
+The Deposit Analysis Dashboard provides insights into customer deposit and savings behavior by analyzing bank deposits, checking accounts, and saving accounts across various segments. 
 
-Key metrics:
-
-•	Total Deposit
-
-•	Bank Deposit
-
-•	Saving Account Amount
-
-•	Checking Account Amount
-
-Deposit breakdown by:
-
-•	Banking Relationship
-
-•	Occupation
-
-•	Nationality
-
-•	Income Band
-
-This dashboard helps banks:
-
-•	Identify financially strong customers
-
-•	Analyze deposit concentration
-
-Understand savings pattern Useful for liquidity planning and customer value analysis.
+This dashboard helps the bank identify financially strong customers, understand where deposits are concentrated, and evaluate customer value for better liquidity planning and relationship management
 
 ## 4️⃣ Summary Dashboard (Business KPIs)
 
-Purpose: Consolidated business performance view.
+The Summary Dashboard presents a consolidated business view by combining all major financial metrics such as total clients, loans, business lending, deposits, fees, foreign currency amounts, and engagement accounts. 
 
-This page combines all major KPIs:
+It serves as a final performance snapshot for stakeholders, enabling them to assess overall business health, customer engagement, and financial stability in a single view.
 
-•	Total Clients
+# Python EDA
+## Insights:
 
-•	Total Loan
+## Deposits and Savings Behavior
 
-•	Business Lending
+The high correlation between Bank Deposits and Saving Accounts suggests that these may either measure overlapping financial behavior (e.g., total funds a customer keeps in the bank) or that people who actively deposit funds also tend to maintain or grow savings balances.
 
-•	Total Deposit
+## Income, Age, and Accumulation
 
-•	Total Fees
+Moderate correlations of Age and Estimated Income with various balances (Superannuation, Savings, Checking) reflect a common financial lifecycle trend: higher income earners and older individuals often accumulate more savings, retirement funds, and may carry higher credit card balances or loans.
 
-•	Bank Deposit
+## Low Correlation with Properties Owned
 
-•	Saving Account
+Property ownership may depend on external factors (location, real estate market conditions, inheritance, etc.) that are not captured by these particular banking variables. Hence, we see weaker correlations here.
 
-•	Checking Account
+## Business vs. Personal Banking
 
-•	Foreign Currency Amount
-
-•	Engagement Account Amount
-
-This acts as a final business snapshot for stakeholders.
-
-## Key Features
-•	Interactive Power BI dashboards with:
-
-	Year slicers
-
-	Gender filters
-
-	Banking relationship filters
-
-•	Income segmentation using Income Bands
-
-•	Risk analysis across:
-
-	Gender
-
-	Occupation
-
-	Nationality
-
-	Banking relationship
-
-•	Top-N analysis and ranking
-
-•	Correlation analysis between financial variables
-
-•	Outlier detection for high-risk customers
+Business Lending’s moderate link to Bank Loans suggests some customers may have both personal and business debts. However, business lending is relatively uncorrelated with other deposit or property-related metrics, indicating it may serve a distinct subset of customers or needs.
 
 ##  Tools & Technologies
 

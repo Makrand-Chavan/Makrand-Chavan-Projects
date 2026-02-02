@@ -33,7 +33,6 @@ The Summary Dashboard presents a consolidated business view by combining all maj
 It serves as a final performance snapshot for stakeholders, enabling them to assess overall business health, customer engagement, and financial stability in a single view.
 
 # Python EDA
-## Insights:
 
 ## Deposits and Savings Behavior
 

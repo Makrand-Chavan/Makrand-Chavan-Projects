@@ -16,7 +16,7 @@ The primary objectives of this project are to:
 
 • Support decision-making using interactive dashboards
 
-## Python EDA
+# Python EDA
 ## Data Understanding and Preparation
 
 The dataset consists of multiple tables including sales transactions, customers, products, regions, and budgets. These datasets were merged to form a consolidated analytical dataset containing revenue, cost, profit, region, and product information.

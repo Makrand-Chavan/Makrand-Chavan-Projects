@@ -1,5 +1,5 @@
 # Global Apple Store Performance Analysis – Analyzing Millions of Sales Rows
-![Apple Store](https://github.com/Makrand-Chavan/Makrand-Chavan-Projects/blob/main/Global%20Apple%20Store%20Performance%20Analysis%20using%20SQL/Apple-Store.jpg)
+![Apple Store](https://github.com/Makrand-Chavan/Makrand-Chavan-Projects/blob/main/Global%20Apple%20Store%20Performance%20Analysis%20using%20SQL/Images/Apple-Store.jpg)
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ By solving a variety of business problems—from basic to complex—you can demo
 This project is ideal for data analysts looking to strengthen their SQL skills using large-scale, real-world structured data.
 
 ## Entity Relationship Diagram (ERD)
-![EDR](https://github.com/Makrand-Chavan/Makrand-Chavan-Projects/blob/main/Global%20Apple%20Store%20Performance%20Analysis%20using%20SQL/ERD%20For%20DataBase.png)
+![EDR](https://github.com/Makrand-Chavan/Makrand-Chavan-Projects/blob/main/Global%20Apple%20Store%20Performance%20Analysis%20using%20SQL/Images/ERD%20For%20DataBase.png)
 ## What’s Included
 
 - 100 SQL practice problems covering major SQL topics  

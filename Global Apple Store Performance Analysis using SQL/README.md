@@ -1,4 +1,4 @@
-# Apple Retail Sales SQL Project – Analyzing Millions of Sales Rows
+# Global Apple Store Performance Analysis – Analyzing Millions of Sales Rows
 
 ## Project Overview
 

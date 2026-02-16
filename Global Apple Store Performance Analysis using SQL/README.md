@@ -1,4 +1,5 @@
-# Global Apple Store Performance Analysis – Analyzing Millions of Sales Rows
+# ![Apple Store](Global Apple Store Performance Analysis using SQL/Apple-Store.jpg)
+ Global Apple Store Performance Analysis – Analyzing Millions of Sales Rows
 
 ## Project Overview
 
@@ -7,6 +8,9 @@ This project showcases advanced SQL querying techniques through the analysis of 
 By solving a variety of business problems—from basic to complex—you can demonstrate your ability to write sophisticated SQL queries that extract meaningful insights from large datasets.
 
 This project is ideal for data analysts looking to strengthen their SQL skills using large-scale, real-world structured data.
+
+## Entity Relationship Diagram (ERD)
+!Global Apple Store Performance Analysis using SQL/ERD For DataBase.png
 
 ---
 
@@ -123,16 +127,7 @@ The project is divided into three difficulty levels.
 
 ---
 
-### Bonus Analysis
 
-Analyze product sales trends across lifecycle stages:
-
-- Launch to 6 months  
-- 6 to 12 months  
-- 12 to 18 months  
-- Beyond 18 months  
-
----
 
 ## Skills Demonstrated
 
@@ -155,6 +150,12 @@ Analyze product sales trends across lifecycle stages:
 
 ## Conclusion
 
-This project strengthens advanced SQL skills, improves large dataset handling, and demonstrates the ability to solve complex analytical problems relevant to real-world business environments.
+This project demonstrates the ability to work with large-scale datasets, business-driven SQL problems, and analytical reporting. 
+It serves as a strong portfolio project for Data Analyst and Business Analyst roles.
 
-It serves as a strong portfolio project for aspiring or professional data analysts.
+---
+
+## Author
+
+### Makrand Chavan
+Aspiring Data Analyst

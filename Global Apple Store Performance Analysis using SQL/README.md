@@ -1,4 +1,4 @@
-# ![Apple Store](Global Apple Store Performance Analysis using SQL/Apple-Store.jpg)
+# ![Apple Store]([Global Apple Store Performance Analysis using SQL/Apple-Store.jpg](https://github.com/Makrand-Chavan/Makrand-Chavan-Projects/blob/54b36d33fb33a1fa4722fa1dab33433e4838b574/Global%20Apple%20Store%20Performance%20Analysis%20using%20SQL/Apple-Store.jpg))
  Global Apple Store Performance Analysis – Analyzing Millions of Sales Rows
 
 ## Project Overview

@@ -5,19 +5,9 @@
 
 This project showcases advanced SQL querying techniques through the analysis of over 1 million rows of Apple retail sales data. The dataset includes information about products, stores, sales transactions, and warranty claims across various Apple retail locations globally.
 
-By solving a variety of business problems—from basic to complex—you can demonstrate your ability to write sophisticated SQL queries that extract meaningful insights from large datasets.
-
-This project is ideal for data analysts looking to strengthen their SQL skills using large-scale, real-world structured data.
 
 ## Entity Relationship Diagram (ERD)
 ![EDR](https://github.com/Makrand-Chavan/Makrand-Chavan-Projects/blob/main/Global%20Apple%20Store%20Performance%20Analysis%20using%20SQL/Images/ERD%20For%20DataBase.png)
-## What’s Included
-
-- 100 SQL practice problems covering major SQL topics  
-- 20 advanced SQL query solutions  
-- 5 structured tables simulating a real retail analytics environment  
-- Query performance tuning concepts  
-- A portfolio-ready case study demonstrating large-scale data analysis  
 
 ---
 
